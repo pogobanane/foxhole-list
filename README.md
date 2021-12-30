@@ -14,6 +14,7 @@ List of (awesome) [foxhole](foxholegame.com) links.
   - [oldhq](https://oldhq.3sp-foxhole.de) ([src](https://github.com/illmaren/FHGHQ) - oldschool logi planner with interactive map
   - [arty.foxhole.tools](https://arty.foxhole.tools) ([src](https://github.com/foxholetools/arty)) - arty planning on a map (no spotter support)
   - [foxholelogi.com](https://foxholelogi.com) - factory order calculator
+  - [foxhole-screenparse](https://pogobanane.de/foxhole-screenparse/) ([src](https://github.com/pogobanane/foxhole-screenparse)) - parses stockpile screenshots to get item counts for spreadsheets
   - [Foxhole Logi Calculator](https://nicolasbarlogis.github.io/foxhole-logi-calculator/) ([src](https://github.com/NicolasBarlogis/foxhole-logi-calculator)) - factory order calculator (from french KGG)
   - [foxhole-artillery-calc](https://earthgrazer.github.io/foxhole-artillery-calc/) ([src](https://github.com/earthgrazer/foxhole-artillery-calc)) - detailed artillery calculator
 - Text based fan sites
