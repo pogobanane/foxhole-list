@@ -30,5 +30,8 @@ List of (awesome) [foxhole](foxholegame.com) links.
   - [foxhole fandom](https://foxhole.fandom.com) - the wiki
   - [logiunion](https://logiunion.com) - L.O.G.I
 
+- Countless closed-source discord bots
+  - ...
+
 - Countless discord servers
   - ...
