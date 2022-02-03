@@ -19,7 +19,10 @@ List of (awesome) [foxhole](foxholegame.com) links.
 - production calculators
   - [foxholelogi.com](https://foxholelogi.com) - factory order calculator
   - [Foxhole Logi Calculator](https://nicolasbarlogis.github.io/foxhole-logi-calculator/) ([src](https://github.com/NicolasBarlogis/foxhole-logi-calculator)) - factory order calculator (from french KGG)
+
+- artillery calculartors
   - [foxhole-artillery-calc](https://earthgrazer.github.io/foxhole-artillery-calc/) ([src](https://github.com/earthgrazer/foxhole-artillery-calc)) - detailed artillery calculator
+  - [google spreadsheet](https://docs.google.com/spreadsheets/d/1P1KsFkE-As31V9e60sQyTx5ZcJJrlP0kPgHVDKJ-4r8/edit?usp=sharing) - made by [SPUD] Nossarian
 
 - stockpile transcribers
   - [foxhole-screenparse](https://pogobanane.de/foxhole-screenparse/) ([src](https://github.com/pogobanane/foxhole-screenparse)) - parses stockpile screenshots to get item counts for spreadsheets
