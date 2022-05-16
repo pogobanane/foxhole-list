@@ -4,7 +4,8 @@ List of (awesome) [foxhole](foxholegame.com) links.
 - Stats and static map
   - [foxholestats](https://foxholestats.com) ([author](https://github.com/hayden-t)) - Must have. State of war visualizer.
   - [logiwaze](https://logiwaze.com) ([src](https://github.com/NoUDerp/logiwaze)) - A map with shortest path finder (maybe a bit bloated).
-  - [foxholewarmap](https://foxholeglobal.com/map/) ([src](https://github.com/Sethfire/foxhole-war-map)) - Simple, yet solid map.
+  - [foxholewarmap](https://warmap.pogobanane.de/map/) ([src](https://github.com/pogobanane/foxhole-war-map)) - Simple, yet solid map.
+    - original: (offline & archived) [foxholewarmap](https://foxholeglobal.com/map/) ([src](https://github.com/Sethfire/foxhole-war-map)) - Simple, yet solid map.
 
 - API docs and assets
   - [warapi docs](https://github.com/clapfoot/warapi) - official API docs
