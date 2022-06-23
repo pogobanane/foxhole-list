@@ -35,6 +35,10 @@ List of (awesome) [foxhole](foxholegame.com) links.
   - [foxhole fandom](https://foxhole.fandom.com) - the wiki
   - [logiunion](https://logiunion.com) - L.O.G.I
 
+- Non-foxhole tools
+  - [housecup](https://housecup.gg) discord bot: Gamify tasks such as freighter deliveries by manually giving points to players who do it. 
+  - [map.army](https://www.map.army/): Interactive military map where custom map pngs can be uploaded.
+
 - Countless closed-source discord bots
   - ...
 
