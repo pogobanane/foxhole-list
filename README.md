@@ -27,9 +27,9 @@ List of (awesome) [foxhole](foxholegame.com) links.
 
 - stockpile transcribers
   - [foxhole-screenparse](https://pogobanane.de/foxhole-screenparse/) ([src](https://github.com/pogobanane/foxhole-screenparse)) - parses stockpile screenshots to get item counts for spreadsheets
+  - [fir.gicode.net](https://fir.gicode.net/): Foxhole Inventory Report ([src](https://github.com/GICodeWarrior/fir)) - the first and only machine-learning based transcriber. Blazingly fast!
   - stockpiler ([src](https://github.com/tehruttiger/Stockpiler), not browser based!) - takes screenshots and converts them to excel
   - Storeman-bot ([src](https://github.com/Tkaixiang/Storeman-Bot), discord bot) - connects stockpiler to discord
-  - [fir.gicode.net](https://fir.gicode.net/): Foxhole Inventory Report ([src](https://github.com/GICodeWarrior/fir)) - WIP make stockpile screenshots machine readable
 
 - Text based fan sites
   - [foxhole fandom](https://foxhole.fandom.com) - the wiki
