@@ -30,13 +30,20 @@ Another list (without focus on open-source) is at [pickles976/FoxholeProjects](h
 
 - artillery calculartors
   - [foxhole-artillery-calc](https://earthgrazer.github.io/foxhole-artillery-calc/) ([src](https://github.com/earthgrazer/foxhole-artillery-calc)) - detailed artillery calculator
+  - [3ADiv Artillery Calculator](https://albert-b-b.github.io/ArtilleryCalc/) ([src](https://github.com/Albert-B-B/ArtilleryCalc)) - with map
   - [google spreadsheet](https://docs.google.com/spreadsheets/d/1P1KsFkE-As31V9e60sQyTx5ZcJJrlP0kPgHVDKJ-4r8/edit?usp=sharing) - made by [SPUD] Nossarian
+  - [fharty](https://fharty.com/)
+  - [FoxholeArtillery](https://github.com/XeniacDev/FoxholeArtillery-Windows): windows app
+  - [FoxholeTool](https://github.com/mmaenz/FoxholeTool): ingame overlay
+  - dead: artyspotter [src](https://github.com/acidtib/artyspotter)
 
 - stockpile transcribers
-  - [foxhole-screenparse](https://pogobanane.de/foxhole-screenparse/) ([src](https://github.com/pogobanane/foxhole-screenparse)) - parses stockpile screenshots to get item counts for spreadsheets
-  - [fir.gicode.net](https://fir.gicode.net/): Foxhole Inventory Report ([src](https://github.com/GICodeWarrior/fir)) - the first and only machine-learning based transcriber. Blazingly fast!
+  - [fir.gicode.net](https://fir.gicode.net/): Foxhole Inventory Report ([src](https://github.com/GICodeWarrior/fir), js/tensorflow) - the first and only machine-learning based transcriber. Blazingly fast!
+  - [foxhole-screenparse](https://pogobanane.de/foxhole-screenparse/) ([src](https://github.com/pogobanane/foxhole-screenparse), js/opencv) - parses stockpile screenshots to get item counts for spreadsheets
+  - [foxhole-sheets](https://github.com/miles-igd/foxhole-sheets) - python/opencv based 
   - stockpiler ([src](https://github.com/tehruttiger/Stockpiler), not browser based!) - takes screenshots and converts them to excel
   - Storeman-bot ([src](https://github.com/Tkaixiang/Storeman-Bot), discord bot) - connects stockpiler to discord
+  - [activitiy log scanner](https://github.com/Stephen001/activity-log-scanner) - scans activity logs of public stockpiles
 
 - Text based fan sites
   - [foxhole fandom](https://foxhole.fandom.com) - the wiki
@@ -51,3 +58,11 @@ Another list (without focus on open-source) is at [pickles976/FoxholeProjects](h
 
 - Countless discord servers
   - ...
+  
+- Countless spreadsheets
+  - ...
+
+## Criteria for listing
+
+1. Available to both factions.
+2. Is a website OR is open source.
