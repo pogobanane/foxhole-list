@@ -19,12 +19,14 @@ Another list (without focus on open-source) is at [pickles976/FoxholeProjects](h
   - [oldhq](https://oldhq.3sp-foxhole.de) ([src](https://github.com/illmaren/FHGHQ)) - aka globalhq, oldschool logi planner with interactive map
   - [arty.foxhole.tools](https://arty.foxhole.tools) ([src](https://github.com/foxholetools/arty)) - arty planning on a map (no spotter support)
 
-- facility/bunker base planner
+- facility/bunker base layout planner
   - [foxholeplanner](https://foxholeplanner.com/) ([src](https://github.com/brandon-ray/foxhole-facility-planner)): interactive facility layout planner
+  - [bunker.drownedvalue.club](https://bunker.drownedvale.club/): formerly colonial only
 
 - production calculators
   - [foxholelogi.com](https://foxholelogi.com) - factory order calculator
   - [Foxhole Logi Calculator](https://nicolasbarlogis.github.io/foxhole-logi-calculator/) ([src](https://github.com/NicolasBarlogis/foxhole-logi-calculator)) - factory order calculator (from french KGG)
+  - [Facility Calculator](https://mrbazlow.github.io/CalcSite/) ([src](https://github.com/MrBazlow/CalcSite)): facility input/output calculator
 
 - artillery calculartors
   - [foxhole-artillery-calc](https://earthgrazer.github.io/foxhole-artillery-calc/) ([src](https://github.com/earthgrazer/foxhole-artillery-calc)) - detailed artillery calculator
