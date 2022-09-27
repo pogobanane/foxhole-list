@@ -22,6 +22,7 @@ Another list (without focus on open-source) is at [pickles976/FoxholeProjects](h
 - facility/bunker base layout planner
   - [foxholeplanner](https://foxholeplanner.com/) ([src](https://github.com/brandon-ray/foxhole-facility-planner)): interactive facility layout planner
   - [bunker.drownedvalue.club](https://bunker.drownedvale.club/): formerly colonial only
+  - [BBPlanner](https://drive.google.com/drive/folders/1tipiHk_YcpDaffhI1PEF7n6kdPXkPIvS): windows app (electron)
 
 - production calculators
   - [foxholelogi.com](https://foxholelogi.com) - factory order calculator
