@@ -52,6 +52,7 @@ Another list (without focus on open-source) is at [pickles976/FoxholeProjects](h
 
 - Non-foxhole tools
   - [housecup](https://housecup.gg) discord bot: Gamify tasks such as freighter deliveries by manually giving points to players who do it. 
+  - [stratsketch](https://stratsketch.com/): draw nice military maps
   - [map.army](https://www.map.army/): Interactive military map where custom map pngs can be uploaded.
 
 - Countless closed-source discord bots
