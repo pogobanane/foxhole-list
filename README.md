@@ -1,7 +1,9 @@
 # foxhole-list
-List of (awesome) [foxhole](foxholegame.com) links. 
+List of (awesome) [foxhole](https://foxholegame.com) links. 
 
 Another list (without focus on open-source) is at [pickles976/FoxholeProjects](https://github.com/pickles976/FoxholeProjects).
+
+## Maps
 
 - Stats and static map
   - [foxholestats](https://foxholestats.com) ([author](https://github.com/hayden-t)) - Must have. State of war visualizer. (standlone [map](https://foxholestats.com/drawLeaflet.php))
@@ -9,13 +11,8 @@ Another list (without focus on open-source) is at [pickles976/FoxholeProjects](h
   - [foxholewarmap](https://warmap.pogobanane.de/map/) ([src](https://github.com/pogobanane/foxhole-war-map)) - Simple, yet solid map.
     - original: (offline & archived) [foxholewarmap](https://foxholeglobal.com/map/) ([src](https://github.com/Sethfire/foxhole-war-map)) - Simple, yet solid map.
 
-- API docs and assets
-  - [warapi docs](https://github.com/clapfoot/warapi) - official API docs
-  - [warapi assets](https://github.com/the-fellowship-of-the-warapi/Assets) - some apparently legally licenced assets
-  - [assets.foxhole.tools](https://assets.foxhole.tools) ([src](https://github.com/foxholetools/assets)) - a more complete list of assets
-  - WIP [item API](https://github.com/joshuaHallee/foxhole-item-api) - repo with item definition and icons (author of foxholelogi.com)
-
 - interactive maps
+  - [Rail Map](https://bigoof.attrib.org) (bigoof by attrib, [src](https://github.com/attrib/foxhole-map-annotate)) - map to draw railway networks. Discord integration for permissions. 
   - [oldhq](https://oldhq.3sp-foxhole.de) ([src](https://github.com/illmaren/FHGHQ)) - aka globalhq, oldschool logi planner with interactive map
   - [arty.foxhole.tools](https://arty.foxhole.tools) ([src](https://github.com/foxholetools/arty)) - arty planning on a map (no spotter support)
 
@@ -23,6 +20,8 @@ Another list (without focus on open-source) is at [pickles976/FoxholeProjects](h
   - [foxholeplanner](https://foxholeplanner.com/) ([src](https://github.com/brandon-ray/foxhole-facility-planner)): interactive facility layout planner
   - [bunker.drownedvalue.club](https://bunker.drownedvale.club/): formerly colonial only
   - [BBPlanner](https://drive.google.com/drive/folders/1tipiHk_YcpDaffhI1PEF7n6kdPXkPIvS): windows app (electron)
+
+## Calculators
 
 - production calculators
   - [foxholelogi.com](https://foxholelogi.com) - factory order calculator
@@ -38,6 +37,8 @@ Another list (without focus on open-source) is at [pickles976/FoxholeProjects](h
   - [FoxholeTool](https://github.com/mmaenz/FoxholeTool): ingame overlay
   - dead: artyspotter [src](https://github.com/acidtib/artyspotter)
 
+## Stockpile transcribers
+
 - stockpile transcribers
   - [fir.gicode.net](https://fir.gicode.net/): Foxhole Inventory Report ([src](https://github.com/GICodeWarrior/fir), js/tensorflow) - the first and only machine-learning based transcriber. Blazingly fast!
   - [foxhole-screenparse](https://pogobanane.de/foxhole-screenparse/) ([src](https://github.com/pogobanane/foxhole-screenparse), js/opencv) - parses stockpile screenshots to get item counts for spreadsheets
@@ -45,6 +46,14 @@ Another list (without focus on open-source) is at [pickles976/FoxholeProjects](h
   - stockpiler ([src](https://github.com/tehruttiger/Stockpiler), not browser based!) - takes screenshots and converts them to excel
   - Storeman-bot ([src](https://github.com/Tkaixiang/Storeman-Bot), discord bot) - connects stockpiler to discord
   - [activitiy log scanner](https://github.com/Stephen001/activity-log-scanner) - scans activity logs of public stockpiles
+
+## Others
+
+- API docs and assets
+  - [warapi docs](https://github.com/clapfoot/warapi) - official API docs
+  - [warapi assets](https://github.com/the-fellowship-of-the-warapi/Assets) - some apparently legally licenced assets
+  - [assets.foxhole.tools](https://assets.foxhole.tools) ([src](https://github.com/foxholetools/assets)) - a more complete list of assets
+  - WIP [item API](https://github.com/joshuaHallee/foxhole-item-api) - repo with item definition and icons (author of foxholelogi.com)
 
 - Text based fan sites
   - [foxhole fandom](https://foxhole.fandom.com) - the wiki
