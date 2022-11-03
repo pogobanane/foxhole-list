@@ -25,6 +25,7 @@ Another list (without focus on open-source) is at [pickles976/FoxholeProjects](h
 
 - production calculators
   - [foxholelogi.com](https://foxholelogi.com) - factory order calculator
+  - [foxholestuff.com](https://www.foxholestuff.com/) - facility and factory cost calculator
   - [Foxhole Logi Calculator](https://nicolasbarlogis.github.io/foxhole-logi-calculator/) ([src](https://github.com/NicolasBarlogis/foxhole-logi-calculator)) - factory order calculator (from french KGG)
   - [Facility Calculator](https://mrbazlow.github.io/CalcSite/) ([src](https://github.com/MrBazlow/CalcSite)): facility input/output calculator
 
