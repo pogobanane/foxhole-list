@@ -10,6 +10,7 @@ Another list (without focus on open-source) is at [pickles976/FoxholeProjects](h
   - [logiwaze](https://logiwaze.com) ([src](https://github.com/NoUDerp/logiwaze)) - A map with shortest path finder (maybe a bit bloated).
   - [foxholewarmap](https://warmap.pogobanane.de/map/) ([src](https://github.com/pogobanane/foxhole-war-map)) - Simple, yet solid map.
     - original: (offline & archived) [foxholewarmap](https://foxholeglobal.com/map/) ([src](https://github.com/Sethfire/foxhole-war-map)) - Simple, yet solid map.
+  - [3D Foxhole Map](https://foxholemap3d.app/) - 3D map. Shows hills.
 
 - interactive maps
   - [Rail Map](https://bigoof.attrib.org) (bigoof by attrib, [src](https://github.com/attrib/foxhole-map-annotate)) - map to draw railway networks. Discord integration for permissions. 
@@ -27,7 +28,7 @@ Another list (without focus on open-source) is at [pickles976/FoxholeProjects](h
   - [foxholelogi.com](https://foxholelogi.com) - factory order calculator
   - [foxholestuff.com](https://www.foxholestuff.com/) - facility and factory cost calculator
   - [Foxhole Logi Calculator](https://nicolasbarlogis.github.io/foxhole-logi-calculator/) ([src](https://github.com/NicolasBarlogis/foxhole-logi-calculator)) - factory order calculator (from french KGG)
-  - [Facility Calculator](https://mrbazlow.github.io/CalcSite/) ([src](https://github.com/MrBazlow/CalcSite)): facility input/output calculator
+  - [Facility Calculator](https://mrbazlow.github.io/CalcSite/) ([src](https://github.com/MrBazlow/CalcSite)): Bazlows facility input/output calculator
 
 - artillery calculartors
   - [foxhole-artillery-calc](https://earthgrazer.github.io/foxhole-artillery-calc/) ([src](https://github.com/earthgrazer/foxhole-artillery-calc)) - detailed artillery calculator
