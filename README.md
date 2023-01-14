@@ -13,7 +13,7 @@ Another list (without focus on open-source) is at [pickles976/FoxholeProjects](h
   - [3D Foxhole Map](https://foxholemap3d.app/) - 3D map. Shows hills.
 
 - interactive maps
-  - [Rail Map](https://bigoof.attrib.org) (bigoof by attrib, [src](https://github.com/attrib/foxhole-map-annotate)) - map to draw railway networks. Discord integration for permissions. 
+  - [warden.express](https://warden.express) (formerly bigoof.attrib.org, [src](https://github.com/attrib/foxhole-map-annotate)) - map to draw railway networks. Discord integration for permissions. 
   - [oldhq](https://oldhq.3sp-foxhole.de) ([src](https://github.com/illmaren/FHGHQ)) - aka globalhq, oldschool logi planner with interactive map
   - [arty.foxhole.tools](https://arty.foxhole.tools) ([src](https://github.com/foxholetools/arty)) - arty planning on a map (no spotter support)
 
